@@ -40,6 +40,24 @@ Buss, D.~M., Abbott, M., Angleitner, A., Biaggio, A., Blanco-Villasenor, A.,
   societies.
 \newblock {\em Journal of Cross Cultural Psychology\/}, {\em 21\/}, 5--47.
 
+\bibitem[{ČSÚ(2003)}]{CSU2003}
+ČSÚ (2003).
+\newblock \v{Z}eny v~\v{C}esk\'e republice.
+\newblock Retrieved May 3, 2010 from
+  \url{http://www.czso.cz/csu/2002edicniplan.nsf/p/4015-02}.
+
+\bibitem[{ČSÚ(2006)}]{CSU2006}
+ČSÚ (2006).
+\newblock Porodnost a plodnost 2001 - 2005.
+\newblock Retrieved May 3, 2010 from
+  \url{http://www.czso.cz/csu/2006edicniplan.nsf/p/4008-06}.
+
+\bibitem[{ČSÚ(2010)}]{CSU2010}
+ČSÚ (2010).
+\newblock Studenti a~absolventi vysokých škol v~Čr celkem.
+\newblock Retrieved Apr 28, 2010 from \url{http://www.czso.cz/csu/redakce.nsf%
+  /i/studenti\_a\_absolventi\_vysokych\_skol\_v\_cr\_celkem}.
+
 \bibitem[{Darwin(2005)}]{Darwin2005}
 Darwin, C. (2005).
 \newblock {\em O pohlavním výběru\/}.
@@ -174,6 +192,11 @@ Rozsypal, S., \& et~al (2003).
 \newblock {\em Nový přehled biologie\/}.
 \newblock Praha: Scientia.
 
+\bibitem[{Říčan(2006)}]{Rican2006}
+Říčan, P. (2006).
+\newblock {\em Cesta životem : vývojová psychologie\/}.
+\newblock Praha: Portál, 2. vydání ed.
+
 \bibitem[{Slaměník(2008)}]{Slamenik2008}
 Slaměník, I. (2008).
 \newblock Afiliace, atraktivita, láska.
@@ -185,6 +208,12 @@ Trivers, R. (1972).
 \newblock Parental investment and sexual selection.
 \newblock In B.~G. Campbell (Ed.) {\em Sexual selection and the descent of man
   1871 - 1971\/}. Aldine Transaction, 2nd ed.
+
+\bibitem[{ÚZIS(2002)}]{UZIS2002}
+ÚZIS (2002).
+\newblock Aktuální informace č.48/2002.
+\newblock Retrieved Apr 26, 2010 from
+  \url{http://www.uzis.cz/download\_file.php?file=781}.
 
 \bibitem[{Vágnerová(2007)}]{Vagnerova2007}
 Vágnerová, M. (2007).
@@ -208,34 +237,5 @@ Wichmann, B., \& Hill, I. (1982).
 \newblock Algorithm as 183: An efficient and portable pseudo-random number
   generator.
 \newblock {\em Applied Statistics\/}, {\em 31\/}, 188--190.
-
-\bibitem[{ÚZIS(2002)}]{UZIS2002}
-ÚZIS (2002).
-\newblock Aktuální informace č.48/2002.
-\newblock Retrieved Apr 26, 2010 from
-  \url{http://www.uzis.cz/download\_file.php?file=781}.
-
-\bibitem[{ČSÚ(2003)}]{CSU2003}
-ČSÚ (2003).
-\newblock \v{Z}eny v~\v{C}esk\'e republice.
-\newblock Retrieved May 3, 2010 from
-  \url{http://www.czso.cz/csu/2002edicniplan.nsf/p/4015-02}.
-
-\bibitem[{ČSÚ(2006)}]{CSU2006}
-ČSÚ (2006).
-\newblock Porodnost a plodnost 2001 - 2005.
-\newblock Retrieved May 3, 2010 from
-  \url{http://www.czso.cz/csu/2006edicniplan.nsf/p/4008-06}.
-
-\bibitem[{ČSÚ(2010)}]{CSU2010}
-ČSÚ (2010).
-\newblock Studenti a~absolventi vysokých škol v~Čr celkem.
-\newblock Retrieved Apr 28, 2010 from \url{http://www.czso.cz/csu/redakce.nsf%
-  /i/studenti\_a\_absolventi\_vysokych\_skol\_v\_cr\_celkem}.
-
-\bibitem[{Říčan(2006)}]{Rican2006}
-Říčan, P. (2006).
-\newblock {\em Cesta životem : vývojová psychologie\/}.
-\newblock Praha: Portál, 2. vydání ed.
 
 \end{thebibliography}
