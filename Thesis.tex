@@ -1087,23 +1087,22 @@ transformovány do CSV souborů, kde jako oddělovač byl použit znak
 který tento znak obsahoval, byl ručně opraven nahrazením za znak
 lomítka. Byly vytvořeny celkem čtyři soubory -- dva krát dva pro
 seznamovací server a~pohlaví. Do těchto souborů bylo pomocí skriptu
-add\_hash.py (v~příloze) přidán unikátní identifikátor SHA-1 (viz
-výše). V~dalším kroku byly pomocí skriptu get\_random.py (v~pří\-loze)
-vybrány náhodné inzeráty pro pilotáž a~tyto inzeráty byly následně
-z~hlavních datových souborů odstraněny. Po dokončení pilotáže byl
-pomocí skriptu get\_random.py vybrán hlavní výzkumný vzorek, který byl
-uložen opět jako soubor CSV.  Tentokrát již byly použity pouze soubory
-dva -- kódování probíhalo samostatně pro muže a~pro ženy.  Tyto
-soubory byly naimportovány do tabulkového procesoru OpenCalc
-z~kancelářské sady OpenOffice.org. Kódování bylo prováděno
-dvoufázově. V~první fázi byla kódována pouze klíčová slova do dvou
-samostatných sloupců s~poptávkou a~nabídkou. Výsledek tohoto prvního
-kola byl vyexportován opět do formátu CSV a~následně zpracován pomocí
-skriptu code.py (v~příloze), který automaticky překódoval použitá
-klíčová slova do vybraných kategorií (závazek, atraktivita,
-status/majetek, atd.).  Výsledná kontingenční tabulka byla uložena do
-jednoho výsledného souboru CSV, který byl naimportován do programu
-SPSS 18.0.
+add\_hash.py přidán unikátní identifikátor SHA-1 (viz výše). V~dalším
+kroku byly pomocí skriptu get\_random.py vybrány náhodné inzeráty pro
+pilotáž a~tyto inzeráty byly následně z~hlavních datových souborů
+odstraněny. Po dokončení pilotáže byl pomocí skriptu get\_random.py
+vybrán hlavní výzkumný vzorek, který byl uložen opět jako soubor CSV.
+Tentokrát již byly použity pouze soubory dva -- kódování probíhalo
+samostatně pro muže a~pro ženy.  Tyto soubory byly naimportovány do
+tabulkového procesoru OpenCalc z~kancelářské sady
+OpenOffice.org. Kódování bylo prováděno dvoufázově. V~první fázi byla
+kódována pouze klíčová slova do dvou samostatných sloupců s~poptávkou
+a~nabídkou. Výsledek tohoto prvního kola byl vyexportován opět do
+formátu CSV a~následně zpracován pomocí skriptu code.py, který
+automaticky překódoval použitá klíčová slova do vybraných kategorií
+(závazek, atraktivita, status/majetek, atd.).  Výsledná kontingenční
+tabulka byla uložena do jednoho výsledného souboru CSV, který byl
+naimportován do programu SPSS 18.0.
 
 Pro zjištění signifikantních rozdílů mezi muži a~ženami byl použit
 chí-kvadrát test nezávislosti, který je vhodným nástrojem pro
